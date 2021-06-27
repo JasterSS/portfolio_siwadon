@@ -403,7 +403,7 @@ a[href^="tel"] {
 }
 .chart-bar > .percent,
 .chart-circle > .percent {
-  line-height: 15px !important;
+  line-height: 40px !important;
   top: 50%;
   padding-top: 0.3rem;
   text-align: center;
